@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch AgriSmart",
+            "request": "launch",
+            "mainClass": "com.agrisoft.AgriSmart",
+            "projectName": "agrisoft",
+            "preLaunchTask": "mvn-javafx-run",
+            "console": "internalConsole"
+        }
+    ]
+}
